@@ -1,6 +1,6 @@
 {{#user}
-Name: Ritesh
-Skills: HTML, CSS, JS, Next.js
-Email: test@gmail.com
+Name: Gaurav Raj
+Skills: HTML, CSS, JS, Next.js, React etc
+Email: iamgaurav629g@gmail.com
 {{/user}}
 }
