@@ -1,6 +1,0 @@
-{{#user}
-Name: Gaurav Raj
-Skills: HTML, CSS, JS, Next.js, React etc
-Email: iamgaurav629g@gmail.com
-{{/user}}
-}
